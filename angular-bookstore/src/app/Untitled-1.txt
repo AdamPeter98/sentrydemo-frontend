@@ -1,0 +1,28 @@
+
+- tobbretegu architektúra miert erdemes? modell Hierachia abstract base, factory, kivetel, kezeles, loggolas
+
+- source control centralizalt/osztott verzio kovetes - terminologia elonyok es hatranyok, git flow
+
+- ant, maven, gradle, maven vs gradle, continous integration
+
+- Java EE vs Spring arhitecture, component management in both cases
+
+- Mi az EJB es milyen java bean tipusok vannak
+
+- Spring bean scopes and annotation (component ann and ijection)
+
+- Inversion control and Dependency Injection/Dependency lookup
+
+- ORM object relation inpedance missmatch, Hierachia MapSuperClass, JPQL, CriteriaQuery
+
+- JPA standardizal, JPA Entitas ->Realtionships Cascade types, 
+
+- Entity Manager(entitas), Persistance Context, persistance Unit
+
+- REST vs SOAP, REST elvek (5), hogyna implemntalunk restet spring ben ->front controller url re erkeznek keresek body param get post patch
+
+- tranzakcio attributumok EJB 
+
+- security domain role based
+
+- AOP aspektus atmetszo kovetelmeny aspektus oriental programozas joint point ahol az adivice meg lesz hivva, pointcut annotaci vagy xml hol lesz meghivva, advice
